@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:datamapper="http:///org/wso2/developerstudio/eclipse/gmf/datamapper" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_WXoR4Iq0Eeq0eK3nipj26A" type="DataMapper" name="csv_json_transformation_config.datamapper_diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_WdGnwIq0Eeq0eK3nipj26A" type="2002" fontName=".AppleSystemUIFont">
+    <element xmi:type="datamapper:Input" href="csv_json_transformation_config.datamapper#//@input"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WdGnwYq0Eeq0eK3nipj26A" x="185" y="-200" width="250" height="160"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_WdHO0Iq0Eeq0eK3nipj26A" type="2003" fontName=".AppleSystemUIFont">
+    <element xmi:type="datamapper:Output" href="csv_json_transformation_config.datamapper#//@output"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WdHO0Yq0Eeq0eK3nipj26A" x="632" y="-200" width="250" height="100"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_WXoR4Yq0Eeq0eK3nipj26A"/>
+  <element xmi:type="datamapper:DataMapperRoot" href="csv_json_transformation_config.datamapper#/"/>
+</notation:Diagram>

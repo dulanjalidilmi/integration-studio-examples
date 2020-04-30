@@ -1,0 +1,22 @@
+map_S_root_S_root = function(){ 
+var outputroot={};
+
+var count_i_inputroot_9f8a9b0b_99c3_4d0d_a3f1_5cfda675c540 = 0;
+outputroot =  [];
+
+for(i_inputroot_9f8a9b0b_99c3_4d0d_a3f1_5cfda675c540 in inputroot){
+outputroot[count_i_inputroot_9f8a9b0b_99c3_4d0d_a3f1_5cfda675c540] =  {};
+outputroot[count_i_inputroot_9f8a9b0b_99c3_4d0d_a3f1_5cfda675c540].firstname = inputroot[i_inputroot_9f8a9b0b_99c3_4d0d_a3f1_5cfda675c540].firstname;
+outputroot[count_i_inputroot_9f8a9b0b_99c3_4d0d_a3f1_5cfda675c540].surname = inputroot[i_inputroot_9f8a9b0b_99c3_4d0d_a3f1_5cfda675c540].surname;
+outputroot[count_i_inputroot_9f8a9b0b_99c3_4d0d_a3f1_5cfda675c540].phone = inputroot[i_inputroot_9f8a9b0b_99c3_4d0d_a3f1_5cfda675c540].phone;
+outputroot[count_i_inputroot_9f8a9b0b_99c3_4d0d_a3f1_5cfda675c540].email = inputroot[i_inputroot_9f8a9b0b_99c3_4d0d_a3f1_5cfda675c540].email;
+
+count_i_inputroot_9f8a9b0b_99c3_4d0d_a3f1_5cfda675c540++;
+}
+return outputroot;
+};
+
+
+
+
+
